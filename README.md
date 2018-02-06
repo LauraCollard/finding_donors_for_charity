@@ -1,1 +1,1 @@
-# finding_donors_for_charity
+# Finding donors for CharityML
