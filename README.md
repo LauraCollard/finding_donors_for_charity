@@ -1,1 +1,0 @@
-# Finding donors for CharityML
